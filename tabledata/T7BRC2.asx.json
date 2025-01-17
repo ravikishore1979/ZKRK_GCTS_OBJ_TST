@@ -1,0 +1,36 @@
+[
+ {
+  "table":"T7BRC2",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "BUKRS":"BR01",
+    "ENDDA":"2010-01-01",
+    "BEGDA":"2010-01-01",
+    "FAPIX":"0",
+    "EFD_SSFAPP":"",
+    "EDUC_ENTITY_IND":"",
+    "TEMP_IND":"",
+    "TEMP_NR_MTE":"",
+    "EFD_SM_LPORT":"",
+    "EFD_SM_LPORT_Q":"",
+    "RURAL_ER_SS_IND":""
+   },
+   {
+    "MANDT":"___",
+    "BUKRS":"BR01",
+    "ENDDA":"9999-12-31",
+    "BEGDA":"2010-01-02",
+    "FAPIX":"0",
+    "EFD_SSFAPP":"",
+    "EDUC_ENTITY_IND":"",
+    "TEMP_IND":"",
+    "TEMP_NR_MTE":"",
+    "EFD_SM_LPORT":"",
+    "EFD_SM_LPORT_Q":"",
+    "RURAL_ER_SS_IND":""
+   }
+  ]
+ }
+]
