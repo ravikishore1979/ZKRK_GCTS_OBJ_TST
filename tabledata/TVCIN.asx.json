@@ -1,0 +1,19 @@
+[
+ {
+  "table":"TVCIN",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "CCINS":"CASH",
+    "KSCHL":"",
+    "KSCHC":"",
+    "FNCHK":"",
+    "DSCHK":"",
+    "TGVAL":0,
+    "CCPRGRS":"",
+    "VCARD":""
+   }
+  ]
+ }
+]
