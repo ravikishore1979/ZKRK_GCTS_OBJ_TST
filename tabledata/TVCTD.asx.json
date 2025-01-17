@@ -1,0 +1,17 @@
+[
+ {
+  "table":"TVCTD",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "CCINS":"MC",
+    "CCSUC":0,
+    "OPTION_CC":"",
+    "LOW_CC":"",
+    "HIGH_CC":"",
+    "CCTYP":"01"
+   }
+  ]
+ }
+]

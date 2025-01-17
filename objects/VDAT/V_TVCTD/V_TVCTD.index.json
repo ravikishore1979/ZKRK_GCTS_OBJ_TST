@@ -1,0 +1,26 @@
+[
+ {
+  "table":"TVCTD",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"CCINS",
+      "value":"MC"
+     },
+     {
+      "key":"CCSUC",
+      "value":"0000"
+     }
+    ],
+    "hash":"XAMMERKQQX8AJnAFbEOB/7qXCf8="
+   }
+  ]
+ }
+]
