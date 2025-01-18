@@ -1,0 +1,24 @@
+[
+ {
+  "table":"T683U",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "SPRAS":"D",
+    "KVEWE":"A",
+    "KAPPL":"V",
+    "KALSM":"RVRO01",
+    "VTEXT":"Standard"
+   },
+   {
+    "MANDT":"___",
+    "SPRAS":"E",
+    "KVEWE":"A",
+    "KAPPL":"V",
+    "KALSM":"RVRO01",
+    "VTEXT":"Standard - ReleaseOwl"
+   }
+  ]
+ }
+]
