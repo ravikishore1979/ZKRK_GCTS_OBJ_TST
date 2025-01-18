@@ -1,0 +1,26 @@
+[
+ {
+  "table":"RMXMC_T16",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"WERKS",
+      "value":"0001"
+     },
+     {
+      "key":"GRP",
+      "value":"TMS"
+     }
+    ],
+    "hash":"gxkXE1i2lJXTuF+v3eit2xO8PfI="
+   }
+  ]
+ }
+]

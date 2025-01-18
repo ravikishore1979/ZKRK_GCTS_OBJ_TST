@@ -1,0 +1,23 @@
+[
+ {
+  "table":"RMXMC_T16",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "WERKS":"0001",
+    "GRP":"TMS",
+    "PHSEQ":"",
+    "COSTR":"INSTR",
+    "PROFIDNETZ":"PI01",
+    "STATUS":"",
+    "VERWE":"2",
+    "STLAN":"1",
+    "SCALE_1000":"",
+    "CONVERT_UOM":"",
+    "BOM_UOM":"",
+    "IGNORE_ERR":""
+   }
+  ]
+ }
+]
