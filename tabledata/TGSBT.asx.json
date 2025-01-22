@@ -1,0 +1,20 @@
+[
+ {
+  "table":"TGSBT",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "SPRAS":"D",
+    "GSBER":"0002",
+    "GTEXT":"Geschäftsbereich 0001"
+   },
+   {
+    "MANDT":"___",
+    "SPRAS":"E",
+    "GSBER":"0002",
+    "GTEXT":"Business area 0002 RO"
+   }
+  ]
+ }
+]

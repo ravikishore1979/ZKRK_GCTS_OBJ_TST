@@ -1,0 +1,26 @@
+[
+ {
+  "table":"/SAPPCE/TDPC12",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"BUKRS",
+      "value":"0001"
+     },
+     {
+      "key":"KOART",
+      "value":"K"
+     }
+    ],
+    "hash":"cQ8ImmdYOkaYRKKKxFJRVSRX2ns="
+   }
+  ]
+ }
+]
