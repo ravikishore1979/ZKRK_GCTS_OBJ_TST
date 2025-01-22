@@ -1,4 +1,4 @@
   method SDFG.
     DATA:lvname TYPE CHAR10.
-    lvname = 'likhitha'.
+    lvname = 'likhitha 123'.
   endmethod.
