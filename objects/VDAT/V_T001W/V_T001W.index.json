@@ -16,6 +16,20 @@
      }
     ],
     "hash":"Au8aNidtMpOhOl4fzVqwUL+5zjI="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"WERKS",
+      "value":"RA03"
+     }
+    ],
+    "hash":"uLVgaushkUvlxYY/4QiSsXAnxAM="
    }
   ]
  }

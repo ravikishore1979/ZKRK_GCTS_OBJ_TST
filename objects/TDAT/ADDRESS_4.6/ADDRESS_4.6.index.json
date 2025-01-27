@@ -32,6 +32,36 @@
      }
     ],
     "hash":"3e3hdajWnT07/vknIEA7KiYxX00="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"CLIENT",
+      "value":"___"
+     },
+     {
+      "key":"TABLENAME",
+      "value":"T001W"
+     },
+     {
+      "key":"FIELDNAME",
+      "value":"ADRNR"
+     },
+     {
+      "key":"OBJKEY",
+      "value":"100RA03"
+     },
+     {
+      "key":"DATE_FROM",
+      "value":"00010101"
+     },
+     {
+      "key":"NATION",
+      "value":""
+     }
+    ],
+    "hash":"i/QBx1c5ALLgDJJWPJ5zaDaFCso="
    }
   ]
  }
