@@ -26,6 +26,20 @@
      },
      {
       "key":"WERKS",
+      "value":"2000"
+     }
+    ],
+    "hash":"iLXVC/IPzz7TjEkWVODxdtOHWQ0="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"WERKS",
       "value":"RA03"
      }
     ],
