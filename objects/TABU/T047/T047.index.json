@@ -1,0 +1,36 @@
+[
+ {
+  "table":"T047",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"BUKRS",
+      "value":"0003"
+     }
+    ],
+    "hash":"GVK6jDM4chWIl4zZVRUkLlEzbTo="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"BUKRS",
+      "value":"BR01"
+     }
+    ],
+    "hash":"QPEP/oV2F58y+UZ8NlI/+wOxz3w="
+   }
+  ]
+ }
+]

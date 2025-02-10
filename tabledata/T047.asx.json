@@ -1,0 +1,28 @@
+[
+ {
+  "table":"T047",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "BUKRS":"0003",
+    "XMABE":"X",
+    "XSTMV":"X",
+    "RBUKM":"0003",
+    "SMHNK":"",
+    "SMHND":"",
+    "MBUKRS":"0001"
+   },
+   {
+    "MANDT":"___",
+    "BUKRS":"BR01",
+    "XMABE":"",
+    "XSTMV":"",
+    "RBUKM":"AU01",
+    "SMHNK":"",
+    "SMHND":"",
+    "MBUKRS":""
+   }
+  ]
+ }
+]
